@@ -1,0 +1,3 @@
+# customization black list
+
+||*.8d8d.me^
