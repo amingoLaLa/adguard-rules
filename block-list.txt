@@ -1,4 +1,6 @@
 # customization black list
 
+# NSFW
 ||*.8d8d.me^
+||*.forfatmu.live^
 ||*.eyny.com^
