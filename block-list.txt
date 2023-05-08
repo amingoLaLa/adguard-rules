@@ -4,5 +4,5 @@
 ||*.8d8d.me^
 ||*.forfatmu.live^
 ||*.eyny.com^
-||*.book18.org
-||*.xnxx.place
+||*.book18.org^
+||*.xnxx.place^
