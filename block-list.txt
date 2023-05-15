@@ -6,3 +6,4 @@
 ||*.eyny.com^
 ||*.book18.org^
 ||*.xnxx.place^
+||*.gad.bet^
