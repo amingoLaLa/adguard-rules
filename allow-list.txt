@@ -1,2 +1,5 @@
 # allow-list
 @@||www.disneyplus.com^
+@@||www.kktv.me^
+@@||video.friday.tw^
+@@||www.netflix.com^
