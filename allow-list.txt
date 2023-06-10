@@ -3,3 +3,5 @@
 @@||www.kktv.me^
 @@||video.friday.tw^
 @@||www.netflix.com^
+
+@@||www.instagram.com^$important,document
