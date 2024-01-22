@@ -9,3 +9,4 @@
 ||*.xnxx.place^
 ||*.gad.bet^
 ||*.selgreat.com^
+||selgreat.com^
