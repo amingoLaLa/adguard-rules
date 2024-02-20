@@ -11,3 +11,6 @@
 ||selgreat.com^
 ||onlyfans.com^
 ||fansone.com^
+
+# just-block
+||offsec.com^
